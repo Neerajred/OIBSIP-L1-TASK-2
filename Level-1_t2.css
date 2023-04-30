@@ -1,0 +1,165 @@
+
+.navbar1 {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #337292;
+}
+
+a {
+    padding: 5px;
+    margin: 40px 30px;
+    font-size: 23px;
+    justify-content: center;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    background-color: rgb(2, 84, 173);
+    border-radius: 5px;
+    color: white;
+}
+
+.container1 {
+    height: 600px;
+    width: 100%;
+}
+.objective
+{
+    position: absolute;
+    background-color: #607d8b;
+    margin: 25px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 5%;
+}
+.container2 {
+    height: 400px;
+    width: 100%;
+    background-color: #607d8b;
+}
+
+.container3 {
+    height: 200px;
+    width: 100%;
+}
+
+.container4 {
+    height: 400px;
+    width: 100%;
+}
+.container5
+{
+    height: 90px;
+    width: 100%;
+    text-align: center;
+    display: inline;
+}
+
+.subcon1 {
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+    float: left;
+    height: 590px;
+    width: 48%;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.subcon2 {
+    background-color: rgb(255, 253, 253);
+    margin: 5px;
+    float: right;
+    height: 590px;
+    width: 48%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image{
+    margin: 15px;
+    border-radius: 5px;
+    align-items: center;
+    height: 50%;
+    width: 48%;
+}
+.profile
+{
+    height: 50%;
+    width: 60%;
+    margin-top: 120px;
+    margin-left: 120px;
+    
+}
+.background {
+    background-color: #607d8b;
+}
+.name1
+{
+    margin-left: 310px;
+    font-size: 60px;
+    margin-top: -55px;
+    color: bisque;
+}
+.certificate
+{
+    text-align: center;
+    
+}
+.resize
+{
+    height: 390px;
+}
+.resize1{
+    height: 190px;
+}
+.work {
+    text-align: center;
+}
+.inline {
+    display: inline;
+}
+.margin-left {
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.work-img {
+    margin-left: 150px;
+    height: 150px;
+
+
+}
+.project-img
+{
+    height: 250px;
+}
+.txt
+{
+    text-align: center;
+    margin-top: 30px;
+}
+.foot
+{
+    align-items: center;
+    background-color: #337292;
+}
+.font
+{
+    font-family: Times;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.content
+{
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+}
